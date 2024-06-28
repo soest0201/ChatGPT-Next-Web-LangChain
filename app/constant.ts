@@ -204,6 +204,9 @@ const openaiModels = [
   "gpt-4o-2024-05-13",
   "gpt-4-vision-preview",
   "gpt-4-turbo-2024-04-09",
+  "deepseek-chat",
+  "deepseek-coder",
+  "glm-4-flash",
 ];
 
 const googleModels = [
